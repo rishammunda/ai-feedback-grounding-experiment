@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Project privacy / research data
+website/Submissions/
+student_feedback_total.json
+feedback.json
+*.sqlite
+*.db
+assignment.txt
+*.pem
+private_keys/
